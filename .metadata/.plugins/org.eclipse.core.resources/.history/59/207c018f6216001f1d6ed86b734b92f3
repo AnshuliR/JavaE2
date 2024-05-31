@@ -1,0 +1,5 @@
+package methodShadowing;
+
+public class MethodShadow {
+
+}

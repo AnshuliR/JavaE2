@@ -1,0 +1,7 @@
+package methodShadowing;
+
+public class MethodShadow {
+	public static void m1() {
+		System.out.println("From parent class");
+	}
+}

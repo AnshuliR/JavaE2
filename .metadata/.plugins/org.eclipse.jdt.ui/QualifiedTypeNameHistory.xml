@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="mulProg.MulJava"/>
+    <fullyQualifiedTypeName name="additionProg.AdditionJava"/>
+    <fullyQualifiedTypeName name="subProg.SubtractionJava"/>
+    <fullyQualifiedTypeName name="divProg.DivisionJava"/>
+    <fullyQualifiedTypeName name="operation.DigiCount"/>
+    <fullyQualifiedTypeName name="operation.Square"/>
+    <fullyQualifiedTypeName name="operation.Cube"/>
+    <fullyQualifiedTypeName name="operation.Factorial"/>
+    <fullyQualifiedTypeName name="operation.Factor"/>
+    <fullyQualifiedTypeName name="operation.Power"/>
+    <fullyQualifiedTypeName name="loginPage.LoginPage"/>
+    <fullyQualifiedTypeName name="createProfile.CreateProfile"/>
+    <fullyQualifiedTypeName name="homePage.HomePage"/>
+    <fullyQualifiedTypeName name="tvShow.TVShows"/>
+    <fullyQualifiedTypeName name="movies.Movies"/>
+    <fullyQualifiedTypeName name="newAndPopular.NewAndPopular"/>
+    <fullyQualifiedTypeName name="myList.MyList"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="constructor.Student"/>
+</qualifiedTypeNameHistroy>
